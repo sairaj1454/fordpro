@@ -1,6 +1,8 @@
 Flask==2.0.2
 Werkzeug==2.0.3
-pandas==1.3.4
-numpy==2.0.0  # Use a version that is compatible with Render's Python environment
+
+
 python-docx==0.8.11
 gunicorn==20.1.0
+pandas==1.3.0
+numpy==1.21.0
